@@ -1,0 +1,5 @@
+Kotlin Toolchain version 0.12.0 (2039c53, 2026-08-24)
+running on Windows 11 10.0 jvm arch amd64
+
+00:03.822 INFO  :ktor-sample (1):compileJvm Slf4jExtensionsKt         Compiling module 'ktor-sample (1)' for platform 'jvm'...
+00:14.180 INFO  :ktor-sample (1):compileJvm MessagesKt                Compilation successful for ktor-sample (1) [jvm]

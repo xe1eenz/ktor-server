@@ -120,7 +120,7 @@
         "C:\\Users\\celin\\Downloads\\ktor-sample (1)\\src\\Resources.kt": "size 156 mtime 2026-09-06T02:55:07.1884207Z",
         "C:\\Users\\celin\\Downloads\\ktor-sample (1)\\src\\Routing.kt": "size 671 mtime 2026-09-06T02:55:07.1356964Z",
         "C:\\Users\\celin\\Downloads\\ktor-sample (1)\\src\\Serialization.kt": "size 320 mtime 2026-09-06T02:55:07.1512116Z",
-        "C:\\Users\\celin\\Downloads\\ktor-sample (1)\\src\\main.kt": "size 325 mtime 2026-09-06T02:55:07.1649082Z"
+        "C:\\Users\\celin\\Downloads\\ktor-sample (1)\\src\\main.kt": "size 359 mtime 2026-09-06T06:23:46.9785599Z"
     },
     "outputValues": {
         "jvmCompilerBuildProblems": "[]"
@@ -130,15 +130,15 @@
         "C:\\Users\\celin\\Downloads\\ktor-sample (1)\\build\\artifacts\\CompiledJvmArtifact\\ktor-sample (1)jvm\\resources-output"
     ],
     "outputFilesState": {
-        "C:\\Users\\celin\\Downloads\\ktor-sample (1)\\build\\artifacts\\CompiledJvmArtifact\\ktor-sample (1)jvm\\kotlin-output\\META-INF\\ktor-sample (1).kotlin_module": "size 111 mtime 2026-09-06T03:36:07.569936Z",
+        "C:\\Users\\celin\\Downloads\\ktor-sample (1)\\build\\artifacts\\CompiledJvmArtifact\\ktor-sample (1)jvm\\kotlin-output\\META-INF\\ktor-sample (1).kotlin_module": "size 111 mtime 2026-09-06T06:24:24.8202564Z",
         "C:\\Users\\celin\\Downloads\\ktor-sample (1)\\build\\artifacts\\CompiledJvmArtifact\\ktor-sample (1)jvm\\kotlin-output\\com\\example\\ApplicationKt.class": "size 1036 mtime 2026-09-06T03:36:07.5494269Z",
         "C:\\Users\\celin\\Downloads\\ktor-sample (1)\\build\\artifacts\\CompiledJvmArtifact\\ktor-sample (1)jvm\\kotlin-output\\com\\example\\Articles$$serializer$annotationImpl$io_ktor_resources_Resource$0.class": "size 1999 mtime 2026-09-06T03:36:07.5536727Z",
         "C:\\Users\\celin\\Downloads\\ktor-sample (1)\\build\\artifacts\\CompiledJvmArtifact\\ktor-sample (1)jvm\\kotlin-output\\com\\example\\Articles$$serializer.class": "size 5509 mtime 2026-09-06T03:36:07.5526703Z",
         "C:\\Users\\celin\\Downloads\\ktor-sample (1)\\build\\artifacts\\CompiledJvmArtifact\\ktor-sample (1)jvm\\kotlin-output\\com\\example\\Articles$Companion.class": "size 1309 mtime 2026-09-06T03:36:07.5514374Z",
         "C:\\Users\\celin\\Downloads\\ktor-sample (1)\\build\\artifacts\\CompiledJvmArtifact\\ktor-sample (1)jvm\\kotlin-output\\com\\example\\Articles.class": "size 3615 mtime 2026-09-06T03:36:07.5504276Z",
         "C:\\Users\\celin\\Downloads\\ktor-sample (1)\\build\\artifacts\\CompiledJvmArtifact\\ktor-sample (1)jvm\\kotlin-output\\com\\example\\HttpKt.class": "size 2281 mtime 2026-09-06T03:36:07.554672Z",
-        "C:\\Users\\celin\\Downloads\\ktor-sample (1)\\build\\artifacts\\CompiledJvmArtifact\\ktor-sample (1)jvm\\kotlin-output\\com\\example\\MainKt$main$1.class": "size 1914 mtime 2026-09-06T03:36:07.5679335Z",
-        "C:\\Users\\celin\\Downloads\\ktor-sample (1)\\build\\artifacts\\CompiledJvmArtifact\\ktor-sample (1)jvm\\kotlin-output\\com\\example\\MainKt.class": "size 1424 mtime 2026-09-06T03:36:07.5659393Z",
+        "C:\\Users\\celin\\Downloads\\ktor-sample (1)\\build\\artifacts\\CompiledJvmArtifact\\ktor-sample (1)jvm\\kotlin-output\\com\\example\\MainKt$main$1.class": "size 1914 mtime 2026-09-06T06:24:24.8187741Z",
+        "C:\\Users\\celin\\Downloads\\ktor-sample (1)\\build\\artifacts\\CompiledJvmArtifact\\ktor-sample (1)jvm\\kotlin-output\\com\\example\\MainKt.class": "size 1683 mtime 2026-09-06T06:24:24.817774Z",
         "C:\\Users\\celin\\Downloads\\ktor-sample (1)\\build\\artifacts\\CompiledJvmArtifact\\ktor-sample (1)jvm\\kotlin-output\\com\\example\\ResourcesKt.class": "size 1199 mtime 2026-09-06T03:36:07.5557145Z",
         "C:\\Users\\celin\\Downloads\\ktor-sample (1)\\build\\artifacts\\CompiledJvmArtifact\\ktor-sample (1)jvm\\kotlin-output\\com\\example\\RoutingKt$configureRouting$1$1.class": "size 3565 mtime 2026-09-06T03:36:07.5578838Z",
         "C:\\Users\\celin\\Downloads\\ktor-sample (1)\\build\\artifacts\\CompiledJvmArtifact\\ktor-sample (1)jvm\\kotlin-output\\com\\example\\RoutingKt$configureRouting$1$2.class": "size 5732 mtime 2026-09-06T03:36:07.5588937Z",
