@@ -1,0 +1,21 @@
+{
+    "codeVersion": "0.12.0",
+    "inputValues": {
+        "kotlinVersion": "2.4.10"
+    },
+    "inputFiles": [
+        "C:\\Users\\celin\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\io\\ktor\\ktor-sse-jvm\\3.5.2\\ktor-sse-jvm-3.5.2.jar"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\celin\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\io\\ktor\\ktor-sse-jvm\\3.5.2\\ktor-sse-jvm-3.5.2.jar": "size 8416 mtime 2026-09-06T03:33:45.1504712Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\Users\\celin\\Downloads\\ktor-sample (1)\\build\\ic-cache\\classpath-snapshots\\ktor-sse-jvm-3.5.2.jar-6993e98fa0d282dfde185e5e5db50651671ab41ac4d7c6bc4c51361ae5c50984.abi"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\celin\\Downloads\\ktor-sample (1)\\build\\ic-cache\\classpath-snapshots\\ktor-sse-jvm-3.5.2.jar-6993e98fa0d282dfde185e5e5db50651671ab41ac4d7c6bc4c51361ae5c50984.abi": "size 1012 mtime 2026-09-06T03:36:09.3356896Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

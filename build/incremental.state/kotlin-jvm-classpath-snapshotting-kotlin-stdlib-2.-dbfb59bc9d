@@ -1,0 +1,21 @@
+{
+    "codeVersion": "0.12.0",
+    "inputValues": {
+        "kotlinVersion": "2.4.10"
+    },
+    "inputFiles": [
+        "C:\\Users\\celin\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-stdlib\\2.4.10\\kotlin-stdlib-2.4.10.jar"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\celin\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-stdlib\\2.4.10\\kotlin-stdlib-2.4.10.jar": "size 1841933 mtime 2026-09-06T03:33:46.3153751Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\Users\\celin\\Downloads\\ktor-sample (1)\\build\\ic-cache\\classpath-snapshots\\kotlin-stdlib-2.4.10.jar-e78255838f60270c8f4546de7ecd124253561220b38ed6deda96d7c7a1fe1016.abi"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\celin\\Downloads\\ktor-sample (1)\\build\\ic-cache\\classpath-snapshots\\kotlin-stdlib-2.4.10.jar-e78255838f60270c8f4546de7ecd124253561220b38ed6deda96d7c7a1fe1016.abi": "size 271262 mtime 2026-09-06T03:35:58.5157107Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

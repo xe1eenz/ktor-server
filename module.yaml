@@ -1,0 +1,20 @@
+
+product: jvm/app
+
+dependencies:
+  - $ktor.serialization.kotlinx.json
+  - $ktor.server.contentNegotiation
+  - $ktor.server.core
+  - $ktor.server.cors
+  - $ktor.server.netty
+  - $ktor.server.resources
+  - $libs.logback.classic
+
+test-dependencies:
+  - $ktor.server.testHost
+
+settings:
+  ktor: enabled
+  kotlin:
+    serialization: enabled
+

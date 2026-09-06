@@ -1,0 +1,21 @@
+{
+    "codeVersion": "0.12.0",
+    "inputValues": {
+        "kotlinVersion": "2.4.10"
+    },
+    "inputFiles": [
+        "C:\\Users\\celin\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\apiguardian\\apiguardian-api\\1.1.2\\apiguardian-api-1.1.2.jar"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\celin\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\apiguardian\\apiguardian-api\\1.1.2\\apiguardian-api-1.1.2.jar": "size 6806 mtime 2026-09-06T03:33:44.2007977Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\Users\\celin\\Downloads\\ktor-sample (1)\\build\\ic-cache\\classpath-snapshots\\apiguardian-api-1.1.2.jar-70afc30f12c75b55e7ecc0bac617c686bbcb26a7af53d421c53f075c80079f72.abi"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\celin\\Downloads\\ktor-sample (1)\\build\\ic-cache\\classpath-snapshots\\apiguardian-api-1.1.2.jar-70afc30f12c75b55e7ecc0bac617c686bbcb26a7af53d421c53f075c80079f72.abi": "size 426 mtime 2026-09-06T03:36:09.3306846Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

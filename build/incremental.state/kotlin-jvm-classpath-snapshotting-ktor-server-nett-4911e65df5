@@ -1,0 +1,21 @@
+{
+    "codeVersion": "0.12.0",
+    "inputValues": {
+        "kotlinVersion": "2.4.10"
+    },
+    "inputFiles": [
+        "C:\\Users\\celin\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\io\\ktor\\ktor-server-netty-jvm\\3.5.2\\ktor-server-netty-jvm-3.5.2.jar"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\celin\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\io\\ktor\\ktor-server-netty-jvm\\3.5.2\\ktor-server-netty-jvm-3.5.2.jar": "size 190438 mtime 2026-09-06T03:33:53.9999247Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\Users\\celin\\Downloads\\ktor-sample (1)\\build\\ic-cache\\classpath-snapshots\\ktor-server-netty-jvm-3.5.2.jar-6c50cc389c4ebc564d8ca88b79f4d48c49d399b285013a925051a912b777b1f6.abi"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\celin\\Downloads\\ktor-sample (1)\\build\\ic-cache\\classpath-snapshots\\ktor-server-netty-jvm-3.5.2.jar-6c50cc389c4ebc564d8ca88b79f4d48c49d399b285013a925051a912b777b1f6.abi": "size 20275 mtime 2026-09-06T03:35:57.3218917Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

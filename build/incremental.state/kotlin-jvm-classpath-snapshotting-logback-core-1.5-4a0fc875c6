@@ -1,0 +1,21 @@
+{
+    "codeVersion": "0.12.0",
+    "inputValues": {
+        "kotlinVersion": "2.4.10"
+    },
+    "inputFiles": [
+        "C:\\Users\\celin\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\ch\\qos\\logback\\logback-core\\1.5.37\\logback-core-1.5.37.jar"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\celin\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\ch\\qos\\logback\\logback-core\\1.5.37\\logback-core-1.5.37.jar": "size 641094 mtime 2026-09-06T03:33:48.1215709Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\Users\\celin\\Downloads\\ktor-sample (1)\\build\\ic-cache\\classpath-snapshots\\logback-core-1.5.37.jar-8dc80f8eff5d865300395ba23b0202d0c2cc78a9dca4267f890a443f3c862743.abi"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\celin\\Downloads\\ktor-sample (1)\\build\\ic-cache\\classpath-snapshots\\logback-core-1.5.37.jar-8dc80f8eff5d865300395ba23b0202d0c2cc78a9dca4267f890a443f3c862743.abi": "size 144934 mtime 2026-09-06T03:35:57.1550715Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

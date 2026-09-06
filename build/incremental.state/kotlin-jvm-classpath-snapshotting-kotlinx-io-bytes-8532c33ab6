@@ -1,0 +1,21 @@
+{
+    "codeVersion": "0.12.0",
+    "inputValues": {
+        "kotlinVersion": "2.4.10"
+    },
+    "inputFiles": [
+        "C:\\Users\\celin\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlinx\\kotlinx-io-bytestring-jvm\\0.9.1\\kotlinx-io-bytestring-jvm-0.9.1.jar"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\celin\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlinx\\kotlinx-io-bytestring-jvm\\0.9.1\\kotlinx-io-bytestring-jvm-0.9.1.jar": "size 22776 mtime 2026-09-06T03:33:45.1514712Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\Users\\celin\\Downloads\\ktor-sample (1)\\build\\ic-cache\\classpath-snapshots\\kotlinx-io-bytestring-jvm-0.9.1.jar-f33995707e63d5f43960abb1dffdf9cbf9de937e95792240855bc02647b748fe.abi"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\celin\\Downloads\\ktor-sample (1)\\build\\ic-cache\\classpath-snapshots\\kotlinx-io-bytestring-jvm-0.9.1.jar-f33995707e63d5f43960abb1dffdf9cbf9de937e95792240855bc02647b748fe.abi": "size 3353 mtime 2026-09-06T03:35:57.8295046Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

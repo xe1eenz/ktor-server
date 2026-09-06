@@ -1,0 +1,21 @@
+{
+    "codeVersion": "0.12.0",
+    "inputValues": {
+        "kotlinVersion": "2.4.10"
+    },
+    "inputFiles": [
+        "C:\\Users\\celin\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\io\\ktor\\ktor-serialization-jvm\\3.5.2\\ktor-serialization-jvm-3.5.2.jar"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\celin\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\io\\ktor\\ktor-serialization-jvm\\3.5.2\\ktor-serialization-jvm-3.5.2.jar": "size 22962 mtime 2026-09-06T03:33:44.1544738Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\Users\\celin\\Downloads\\ktor-sample (1)\\build\\ic-cache\\classpath-snapshots\\ktor-serialization-jvm-3.5.2.jar-51113c0419212df02cb95fd91742259461fc5e23c8ac65d1d5940c1f9ecc914e.abi"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\celin\\Downloads\\ktor-sample (1)\\build\\ic-cache\\classpath-snapshots\\ktor-serialization-jvm-3.5.2.jar-51113c0419212df02cb95fd91742259461fc5e23c8ac65d1d5940c1f9ecc914e.abi": "size 3937 mtime 2026-09-06T03:35:57.1700971Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

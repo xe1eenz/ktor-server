@@ -1,0 +1,21 @@
+{
+    "codeVersion": "0.12.0",
+    "inputValues": {
+        "kotlinVersion": "2.4.10"
+    },
+    "inputFiles": [
+        "C:\\Users\\celin\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\io\\netty\\netty-transport-native-kqueue\\4.2.16.Final\\netty-transport-native-kqueue-4.2.16.Final.jar"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\celin\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\io\\netty\\netty-transport-native-kqueue\\4.2.16.Final\\netty-transport-native-kqueue-4.2.16.Final.jar": "size 6878 mtime 2026-09-06T03:33:46.9029851Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\Users\\celin\\Downloads\\ktor-sample (1)\\build\\ic-cache\\classpath-snapshots\\netty-transport-native-kqueue-4.2.16.Final.jar-03eefe451442cdb2c3bf9108de28f8bfc6ea82e674f019edbff3012d5ae5aefb.abi"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\celin\\Downloads\\ktor-sample (1)\\build\\ic-cache\\classpath-snapshots\\netty-transport-native-kqueue-4.2.16.Final.jar-03eefe451442cdb2c3bf9108de28f8bfc6ea82e674f019edbff3012d5ae5aefb.abi": "size 4 mtime 2026-09-06T03:35:57.0644402Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

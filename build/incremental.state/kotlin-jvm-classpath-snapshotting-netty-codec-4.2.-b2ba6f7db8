@@ -1,0 +1,21 @@
+{
+    "codeVersion": "0.12.0",
+    "inputValues": {
+        "kotlinVersion": "2.4.10"
+    },
+    "inputFiles": [
+        "C:\\Users\\celin\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\io\\netty\\netty-codec\\4.2.16.Final\\netty-codec-4.2.16.Final.jar"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\celin\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\io\\netty\\netty-codec\\4.2.16.Final\\netty-codec-4.2.16.Final.jar": "size 3953 mtime 2026-09-06T03:33:46.7948669Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\Users\\celin\\Downloads\\ktor-sample (1)\\build\\ic-cache\\classpath-snapshots\\netty-codec-4.2.16.Final.jar-796cab473704df15d0384bae8519424e254001491b62b41ec8a669399690083f.abi"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\celin\\Downloads\\ktor-sample (1)\\build\\ic-cache\\classpath-snapshots\\netty-codec-4.2.16.Final.jar-796cab473704df15d0384bae8519424e254001491b62b41ec8a669399690083f.abi": "size 4 mtime 2026-09-06T03:35:57.0062526Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

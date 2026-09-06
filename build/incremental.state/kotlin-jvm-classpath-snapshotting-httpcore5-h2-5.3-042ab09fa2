@@ -1,0 +1,21 @@
+{
+    "codeVersion": "0.12.0",
+    "inputValues": {
+        "kotlinVersion": "2.4.10"
+    },
+    "inputFiles": [
+        "C:\\Users\\celin\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\apache\\httpcomponents\\core5\\httpcore5-h2\\5.3.6\\httpcore5-h2-5.3.6.jar"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\celin\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\apache\\httpcomponents\\core5\\httpcore5-h2\\5.3.6\\httpcore5-h2-5.3.6.jar": "size 242521 mtime 2026-09-06T03:33:53.2525133Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\Users\\celin\\Downloads\\ktor-sample (1)\\build\\ic-cache\\classpath-snapshots\\httpcore5-h2-5.3.6.jar-94f94a017bb548abf26a6fe8ec309940af567ce77173be0f10457c96d6cc38e5.abi"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\celin\\Downloads\\ktor-sample (1)\\build\\ic-cache\\classpath-snapshots\\httpcore5-h2-5.3.6.jar-94f94a017bb548abf26a6fe8ec309940af567ce77173be0f10457c96d6cc38e5.abi": "size 42193 mtime 2026-09-06T03:36:09.3829842Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

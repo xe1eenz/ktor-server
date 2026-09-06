@@ -1,0 +1,21 @@
+{
+    "codeVersion": "0.12.0",
+    "inputValues": {
+        "kotlinVersion": "2.4.10"
+    },
+    "inputFiles": [
+        "C:\\Users\\celin\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\io\\ktor\\ktor-server-websockets-jvm\\3.5.2\\ktor-server-websockets-jvm-3.5.2.jar"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\celin\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\io\\ktor\\ktor-server-websockets-jvm\\3.5.2\\ktor-server-websockets-jvm-3.5.2.jar": "size 53348 mtime 2026-09-06T03:33:44.6309619Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\Users\\celin\\Downloads\\ktor-sample (1)\\build\\ic-cache\\classpath-snapshots\\ktor-server-websockets-jvm-3.5.2.jar-37d8fd96e22ee68693fd6ae4dab0293454cbe33acb7e78631cb84cdb417cda9b.abi"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\celin\\Downloads\\ktor-sample (1)\\build\\ic-cache\\classpath-snapshots\\ktor-server-websockets-jvm-3.5.2.jar-37d8fd96e22ee68693fd6ae4dab0293454cbe33acb7e78631cb84cdb417cda9b.abi": "size 6742 mtime 2026-09-06T03:36:09.2916873Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}
